@@ -1,6 +1,6 @@
 ---
-title: Documents
-category: Media
+title: Tra Scienza e Tradizione
+category: Corpo e Coscienza
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Phone
+title: Metodiche sulla postura
 category: Introduzione
 order: 3
 ---

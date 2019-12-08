@@ -1,6 +1,6 @@
 ---
-title: Video
-category: Media
+title: I ritmi del corpo
+category: Corpo e Coscienza
 order: 2
 ---
 

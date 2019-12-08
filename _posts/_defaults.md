@@ -1,5 +1,5 @@
 ---
-title:
+title: Benvenuto
 type: major
 ---
 

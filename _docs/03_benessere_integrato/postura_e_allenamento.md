@@ -1,7 +1,7 @@
 ---
-title: Android
-category: Farfalle
-order: 2
+title: Postura e Allenamento
+category: Benessere integrato
+order: 4
 ---
 
 Use ChatApp on all of your Android devices. Every version is supported.

@@ -1,6 +1,6 @@
 ---
-title: Images
-category: Media
+title: Lavoro esperienziale a 4 vie
+category: Corpo e Coscienza
 order: 1
 ---
 

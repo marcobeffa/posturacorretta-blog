@@ -1,7 +1,7 @@
 ---
-title: Android
-category: Devices
-order: 2
+title: I tre principi fondamentali
+category: Osteopatia
+order: 3
 ---
 
 Use ChatApp on all of your Android devices. Every version is supported.
