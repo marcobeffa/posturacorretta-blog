@@ -1,5 +1,5 @@
 ---
-title: Introduzione al metodo GDS
+title: Metodo GDS aspetti generali
 category: Biomeccanica GDS
 order: 1
 ---

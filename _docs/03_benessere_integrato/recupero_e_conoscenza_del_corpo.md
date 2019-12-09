@@ -1,5 +1,5 @@
 ---
-title: Postura e Recupero
+title: Recupero e Conoscenza del corpo
 category: Benessere integrato
 order: 5
 ---

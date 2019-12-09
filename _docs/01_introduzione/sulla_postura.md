@@ -1,7 +1,7 @@
 ---
-title: Perchè PosturaCorretta?
+title: Sulla postura
 category: Introduzione
-order: 2
+order: 3
 ---
 
 Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!

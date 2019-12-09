@@ -1,7 +1,7 @@
 ---
 title: Domande Frequenti
 category: Introduzione
-order: 1
+order: 2
 ---
 
 Sync your phone contacts with ChatApp. ChatApp saves your phone contacts and adds anyone with an email address to your contact list!
