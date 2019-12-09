@@ -1,0 +1,28 @@
+<style>
+.custom-list-{{ include.name }} {
+list-style: none;
+padding-left: 50px;
+margin-top:50px;
+}
+.custom-list-{{ include.name }} li {
+position: relative;
+padding-left: 20px;
+}
+.custom-list-{{ include.name }} li:before {
+content: '';
+width: 60px;
+height: 60px;
+position: absolute;
+background-image: url('{{ include.url }}');
+background-size: cover;
+background-position: center;
+left: -50px;
+top: 50%;
+transform: translateY(-50%);
+}
+</style>
+
+
+<ul class="custom-list-{{ include.name }} ">
+    <li>{{ include.description }}</li>
+</ul>

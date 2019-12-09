@@ -1,7 +1,7 @@
 ---
 title: Sulla postura
 category: Introduzione
-order: 3
+order: 1
 ---
 
 Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
