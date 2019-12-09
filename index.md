@@ -1,6 +1,7 @@
 ---
 title: Cosa sai della postura?
 ---
+
 **Porta i principi della Postura nella vita di tutti i giorni in modo facile e piacevole!**
 
 Un percorso per imparare come funziona il tuo corpo e come mantenerlo in salute. 
@@ -18,9 +19,9 @@ Un percorso per imparare come funziona il tuo corpo e come mantenerlo in salute.
 {% include list_emoticon.html url="/images/emoticons/recupero-info.png" description="Vuoi recuperare dopo un infortunio." name="home-recupero-info"  %} 
 
 {% include list_emoticon.html url="/images/emoticons/performances.gif" 
-description="Vuoi mantenere il tuo corpo in salute quando hai bisogno di alte performances nel lavoro o nelle tue attività?" name="home-performance"  %}  
+description="Vuoi mantenere il tuo corpo in salute quando hai bisogno di alte performances nel lavoro o nelle tue attività." name="home-performance"  %}  
 
-{% include list_emoticon.html url="/images/emoticons/graduated.gif" description="Vuoi conoscere le migliori metodiche sulla postura?" name="home-dolore"  %}  
+{% include list_emoticon.html url="/images/emoticons/graduated.gif" description="Vuoi conoscere le migliori metodiche sulla postura." name="home-dolore"  %}  
 
 
 
@@ -36,29 +37,11 @@ description="Vuoi mantenere il tuo corpo in salute quando hai bisogno di alte pe
 4. Farti seguire da un professionista che si dedica a te.
 5. Creare un percorso in gruppo per la tua associazione società o azienda.
 
+### Inizia ora gratis
+Inizia il percorso passando alla sezione come usare la guida:
 
-
-
-### Contatti
-
-Puoi contattarmi:
-
-> [Pagina Facebook](https://www.facebook.com/www.posturacorretta.org/) 
-
-> [Account instagram](https://www.instagram.com/posturacorretta/) 
-
-
-
-
-#### Chi sono
-
-Mi chiamo Marco, lavoro come fisioterapista dal 2007, sono appassionato di natura, programmazione e amo studiare come funziona il mondo la vita e l'uomo! 
-
-Ho creato posturacorretta perchè volevo offrire uno strumento alle persone per lavorare sulla salute e su se stesse in modo semplice.
-
-
-"Un fiore è di una complessità inimmaginabile eppure anche un bambino può osservare una margherita, è una cosa così semplice e bella"
-
-Georges Courchinoux Fondatore del metodo corpo e coscienza.
-
-
+{% include next_previous.html 
+previous_url="Info/Contatti/" 
+previous_name="Contatti" 
+next_url="/01_introduzione/come_usare_la_guida" 
+next_name="Come usare la guida"  %}  
