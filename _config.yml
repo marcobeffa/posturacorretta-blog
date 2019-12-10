@@ -42,6 +42,7 @@ collections:
     title: Documentation
     permalink: /:path/
     output: true
+  pages:  
 
 defaults:
   -

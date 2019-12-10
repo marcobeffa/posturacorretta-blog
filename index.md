@@ -1,5 +1,5 @@
 ---
-title: Cosa sai della postura?
+title: Benvenuto
 ---
 
 **Porta i principi della Postura nella vita di tutti i giorni in modo facile e piacevole!**
@@ -9,7 +9,7 @@ Un percorso per imparare come funziona il tuo corpo e come mantenerlo in salute.
 
 {% include video.html url="https://player.vimeo.com/video/295103288" description="" %}
 
-### Puoi usare la guida se ti trovi in una di queste situazioni:
+### La guida è per te se ti trovi in una di queste situazioni:
 
 
 {% include list_emoticon.html url="/images/emoticons/prevenzione.gif" description="Vuoi fare prevenzione in modo efficace e semplice." name="home-prevenzione" %}
@@ -19,7 +19,7 @@ Un percorso per imparare come funziona il tuo corpo e come mantenerlo in salute.
 {% include list_emoticon.html url="/images/emoticons/recupero-info.png" description="Vuoi recuperare dopo un infortunio." name="home-recupero-info"  %} 
 
 {% include list_emoticon.html url="/images/emoticons/performances.gif" 
-description="Vuoi mantenere il tuo corpo in salute quando hai bisogno di alte performances nel lavoro o nelle tue attività." name="home-performance"  %}  
+description="Sei molto impegnato per il lavoro o per le tue attività." name="home-performance"  %}  
 
 {% include list_emoticon.html url="/images/emoticons/graduated.gif" description="Vuoi conoscere le migliori metodiche sulla postura." name="home-dolore"  %}  
 
@@ -27,21 +27,35 @@ description="Vuoi mantenere il tuo corpo in salute quando hai bisogno di alte pe
 
 
 
-### Segui il percorso di 4 settimane gratuito.
+###  Cosa trovi nella guida?
 
-**Poi puoi scegliere di:**
+La guida gratuita è composta da 3 parti:
 
-1. Continuare con la guida gratuita.
-2. Iscriverti al percorso online.
-3. Partecipare a un gruppo posturacorretta.
-4. Farti seguire da un professionista che si dedica a te.
-5. Creare un percorso in gruppo per la tua associazione società o azienda.
+1. L'introduzione con gli aspetti teorici.
+    - introduzione
+    - prima di iniziare
+2. Programma educativo, teorico e pratico Benessere Integrato.
+3. Programma educativo, teorico e pratico PosturaCorretta 
+    - Introduzione alla Fisioterapia
+    - Introduzione all'Osteopatia
+    - Introduzione al Metodo gds
+    - Postura e movimento
+    - Introduzione a Corpo e Coscienza
 
-### Inizia ora gratis
+
+###  Cosa puoi fare per personalizzare il lavoro?
+**Per personalizzare il tuo percorso puoi:**
+1. Iscriviti all'area personale e controllare i tuoi progressi. (In costruzione)
+2. Partecipare alle lezioni in gruppo posturacorretta.
+3. Prenota lezioni singole, con un professionista che si dedica a te. 
+4. Prenota una visita per creare un percorso personalizzato.
+5. Richidere di attivare un percorso di gruppo per la tua associazione società o azienda.
+
+###  Inizia ora gratis
 Inizia il percorso passando alla sezione come usare la guida:
 
 {% include next_previous.html 
 previous_url="Info/Contatti/" 
 previous_name="Contatti" 
-next_url="/01_introduzione/come_usare_la_guida" 
-next_name="Come usare la guida"  %}  
+next_url="/01_introduzione/cosa_è_postura_corretta/" 
+next_name="Cos'è PosturaCorretta"  %}  
