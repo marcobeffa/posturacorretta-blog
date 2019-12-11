@@ -1,6 +1,6 @@
 ---
 title: Recupero e Conoscenza del corpo
-category: Benessere integrato
+category: 
 order: 5
 ---
 

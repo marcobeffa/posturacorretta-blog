@@ -2,6 +2,7 @@
 title: Cos'è PosturaCorretta?
 category: Introduzione
 order: 1
+status: pubblicato
 ---
 
 Postura Corretta è **un percorso educativo** che ti dà la possibilità di mettere in pratica:

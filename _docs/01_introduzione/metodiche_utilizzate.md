@@ -2,10 +2,11 @@
 title: Metodiche utilizzate
 category: Introduzione
 order: 3
+status: pubblicato
 ---
 
 				
-Nel percorso si trovano **riferimenti a numerose metodiche**, elencherò qui le principali che utilizzo con posturacorretta.
+Nel percorso si trovano **riferimenti a numerose metodiche**, elencherò qui le principali che saranno presentate nella guida.
 
 Il percorso non ti insegnerà nessuna di queste metodiche farà solo alcuni accenni e riferimenti a principi ed esercizi dei metodi. Se sei **interessato a un metodo specifico**  potrai rivolgerti a un professionista formato in quel metodo.
 
@@ -92,7 +93,7 @@ In oltre da sempre i miti attraverso il loro linguaggio cercano di spiegare quel
 
 Qui si arriva sul confine verso un ritorno alle origini, che si collega perfettamente le nuove scoperte scentifiche fatte dalla fisica. 
 
-Proprio con l'arrivo di tecnologie come gli smartphone dell'intelligenza artificiale di una forte attenzione per le neuroscienza.
+Proprio con l'arrivo di tecnologie come gli smartphone dell'intelligenza artificiale di una forte attenzione per le neuroscienze.
 
 Si riscopre l'importanza di antiche tecniche di meditazione che vengono riattualizzate come ad esempio la mindfulness che oggi va per la maggiore.
 					

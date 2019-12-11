@@ -1,14 +1,14 @@
 ---
-title: Aspetto emotivo e mentale
+title: Il sistema muscolare
 category: 
 order: 2
 ---
 
-Use ChatApp on all of your Android devices. Every version is supported.
+Use ChatApp on most of your Apple devices. Only the latest versions are supported.
 
 To install ChatApp on your device:
 
-1. Open the Google Play Store
+1. Open the App Store
 2. Search for ChatApp
 3. Select **Install**
 

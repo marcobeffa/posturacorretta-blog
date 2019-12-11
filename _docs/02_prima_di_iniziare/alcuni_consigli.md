@@ -1,7 +1,8 @@
 ---
 title: Alcuni consigli
-category: Prima di iniziare
+category: 
 order: 1
+status: bozza
 ---
  
 
@@ -87,3 +88,9 @@ Viaggiare con le spie dell'automobile accese E' dura viaggiare senza patente sen
 Di seguito ho raccolto le tappe principali e le cose indispensabili che devi conoscere per la tua salute e poi inizia il tuo percorso sulla postura.
 Scoprirai come diventare giardiniere della tua postura e come diventare il direttore d'orchestra del tuo corpo.
 Ti lascio al prossimo capitolo dove ci saranno ancora alcune precisazioni e proposte dopodichè dai capitoli successivi inizieranno gli esercizi per la tua postura.
+
+
+###  QUALI PROFESSIONISTI SCEGLIERE?               
+ 
+
+Nel capitolo seguente vedremo come in base al tuo stato di salute e ai tuoi obiettivi potrai scegliere qual è il professionista più adatto a te. Per ora ti ricordo che in caso di problemi di salute di rivolgerti a un professionista sanitario chiedere al tuo medico o scrivici per chiedere un consiglio.

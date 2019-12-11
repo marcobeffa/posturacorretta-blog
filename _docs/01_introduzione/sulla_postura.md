@@ -2,6 +2,7 @@
 title: Sulla postura
 category: Introduzione
 order: 2
+status: pubblicato
 ---
 
 Vediamo ora di rispondere ad alcune domande che ti aiutano a fare chiarezza su alcuni concetti.
@@ -87,10 +88,6 @@ Come vedremo anche più avanti il percorso si adatta a molti ambiti,
                   
 
 
-###  7) QUALI PROFESSIONISTI SCEGLIERE?               
- 
-
-Nel capitolo seguente vedremo come in base al tuo stato di salute e ai tuoi obiettivi potrai scegliere qual è il professionista più adatto a te. Per ora ti ricordo che in caso di problemi di salute di rivolgerti a un professionista sanitario chiedere al tuo medico o scrivici per chiedere un consiglio.
 
 
             

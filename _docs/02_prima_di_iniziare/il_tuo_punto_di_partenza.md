@@ -1,6 +1,6 @@
 ---
 title: Il tuo punto di partenza
-category: Prima di iniziare
+category: 
 order: 2
 ---
 

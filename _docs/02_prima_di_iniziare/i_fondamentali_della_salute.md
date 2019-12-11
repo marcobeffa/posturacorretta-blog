@@ -1,6 +1,6 @@
 ---
 title: I fondamentali della salute
-category: Prima di iniziare
+category: 
 order: 3
 ---
 

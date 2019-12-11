@@ -60,6 +60,7 @@ defaults:
       _comments:
         category: Group navigation links with this field
         order: Used to sort links in the navigation
+        status: Show if publicate
       _options:
         content:
           width: 800
