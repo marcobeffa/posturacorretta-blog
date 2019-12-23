@@ -1,15 +1,16 @@
 ---
 title: Igiene posturale introduzione 
-category: 
+category: Igiene Posturale
 order: 1
+status: pubblicato
 ---
 
-Use ChatApp on most of your Apple devices. Only the latest versions are supported.
+<iframe src="https://player.vimeo.com/video/295988393" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-To install ChatApp on your device:
 
-1. Open the App Store
-2. Search for ChatApp
-3. Select **Install**
+### COME ESEGUIRE GLI ESERCIZI
 
-![](//placehold.it/800x600)
+
+<iframe src="https://player.vimeo.com/video/375116135" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+

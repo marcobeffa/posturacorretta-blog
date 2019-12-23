@@ -1,15 +1,14 @@
 ---
 title: Recupero e Conoscenza del corpo
-category: 
-order: 5
+category: Benessere integrato 
+order: 8
+status: pubblicato
 ---
 
-Use ChatApp on all of your Android devices. Every version is supported.
+		
 
-To install ChatApp on your device:
+	
+  <p>La parte iniziale è stata lunga ma era necessario avere ben presente il quadro della situazione entrerai ora nel cuore del percorso posturacorretta con gli esercizi e i programmi che ti aiuteranno a migliorare la tua postura e riattivare la tua fisiologia buona continuazione.</p>
 
-1. Open the Google Play Store
-2. Search for ChatApp
-3. Select **Install**
+	
 
-![](//placehold.it/800x600)

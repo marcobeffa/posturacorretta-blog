@@ -1,15 +1,25 @@
 ---
 title: Benessere salute e postura
-category: 
+category: Benessere integrato
 order: 1
+status: pubblicato
 ---
 
-Use ChatApp on all of your Android devices. Every version is supported.
 
-To install ChatApp on your device:
+Dalla lettura del posizionamento delle varie parti del nostro corpo e con i giusti strumenti si possono ricavare numerose informazioni. 
 
-1. Open the Google Play Store
-2. Search for ChatApp
-3. Select **Install**
+Questo perchè il nostro corpo raccogliere registra tutto quello che succede nella nostra vita, e porta con se tutto quello che ci è stato trasmesso geneticamente.
 
-![](//placehold.it/800x600)
+Abbiamo visto nel capitolo precedente come capire qual è il nostro punto di partenza 
+
+Ora è necessario capire su cosa dobbiamo lavorare.
+La prima cosa che si fa quando si affronta qualsiasi disciplina è imparare le basi. Conoscerle non è però sufficiente è necessario anche importante metterle in pratica.
+
+Prima di iniziare a lavorare direttamente sulla postura vedremo di imparare a conoscere quali sono le basi della salute. 
+
+Lavorare sulla postura senza prima conoscere le basi della salute è possibile, ma affiancando i due lavori postura + salute si ha un effetto sinergico.
+
+Per questo con benessere integrato ti proporrò un breve lavoro per lavorare sui fondamentali della salute potrai poi iniziare il vero e proprio lavoro sulla postura.
+
+
+

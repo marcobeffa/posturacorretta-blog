@@ -19,6 +19,16 @@ Con PosturaCorretta inizi **un viaggio** per conoscere questi mondi e se vorrai 
 
 Ho costruito il percorso come se fosse **una mappa per orientarti** in questo vasto panorama.
 
+- Introduzione
+- Stato di salute
+- Benessere Integrato
+- Igiene Posturale
+- Principi di Fisioterapia
+- Principi di Osteopatia
+- Introduzione al metodo GDS
+- Postura e Movimento
+- Metodo corpo e coscienza
+
 Sei pronto per iniziare?
 
 {% include next_previous.html 
