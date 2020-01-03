@@ -1,6 +1,6 @@
 ---
-title: I tre principi fondamentali
-category: 
+title: Le vie dei vasi e dei nervi
+category: Principi di osteopatia
 order: 1
 status: pubblicato
 ---
