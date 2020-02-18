@@ -1,7 +1,7 @@
 ---
-title: Tra Scienza e Tradizione
+title: La sofrologia
 category: Metodo Corpo e Coscienza
-order: 5
+order: 9
 status: pubblicato
 ---
 

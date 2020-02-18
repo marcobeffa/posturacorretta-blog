@@ -30,11 +30,15 @@ Il Fisioterapista interviene con un programma riabilitativo che può essere form
 	
 <h3>Osteopatia</h3>
 			
-L'osteopata è una disciplina che utilizza un trattamento manuale applicata secondo determinati principi, per riequilibra le varie strutture osteoarticolari, fasciali e viscerali cercando di ridonare mobilità ai vari sistemi.
+L'osteopata è una disciplina che utilizza un trattamento manuale applicato secondo determinati principi, per riequilibrare le varie strutture osteoarticolari, fasciali e viscerali cercando di ridonare mobilità ai vari sistemi.
 	
-Ho completato 4 dei 6 anni di osteopatia per poi proseguire per altre metodiche. 
+Nell'osteopatia è l'operatore a svolgere un lavoro attivo e il paziente a riceve il trattamento passivamente. 
+
 
 {% include image.html url="/images/home/cerdo.png" style="max-height:400px;" %}	
+
+I prossimi metodi presentano anche un lavoro che il paziente può intraprendere un percorso personale attivo guidato dal professionista.
+
 
 
 <h3>Metodo GDS</h3>

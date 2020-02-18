@@ -1,8 +1,9 @@
 ---
-title: Tra Scienza e Tradizione
+title: Le neuroscenze
 category: Metodo Corpo e Coscienza
-order: 5
+order: 9
 status: pubblicato
 ---
 
-Coming soon
+I neuroni specchio
+

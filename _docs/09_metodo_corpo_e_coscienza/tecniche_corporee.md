@@ -1,8 +1,9 @@
 ---
-title: Tra Scienza e Tradizione
+title: Le tecniche corporee
 category: Metodo Corpo e Coscienza
-order: 5
+order: 6
 status: pubblicato
 ---
 
 Coming soon
+

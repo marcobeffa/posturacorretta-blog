@@ -1,7 +1,7 @@
 ---
 title: Cos'è la fisioterapia
 category: Fisioterapia
-order: 8
+order: 1
 status: pubblicato
 ---
 La fisioterapia è una branca della medicina, anche se non prevede l’impiego di farmaci. Un fisioterapia lavora però in collaborazione con un medico Fisiatra o con un Ortopedico per capire quale sia il percorso migliore per te che permetta di recuperare, o acquisire, funzionalità motorie che hai perso per qualsiasi ragione.

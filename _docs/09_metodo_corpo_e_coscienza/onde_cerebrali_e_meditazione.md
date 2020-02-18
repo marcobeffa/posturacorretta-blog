@@ -1,7 +1,7 @@
 ---
-title: Tra Scienza e Tradizione
+title: Onde cerebrali e meditazione
 category: Metodo Corpo e Coscienza
-order: 5
+order: 4
 status: pubblicato
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Tra Scienza e Tradizione
+title: Fasi della vita
 category: Metodo Corpo e Coscienza
-order: 5
+order: 3
 status: pubblicato
 ---
 
