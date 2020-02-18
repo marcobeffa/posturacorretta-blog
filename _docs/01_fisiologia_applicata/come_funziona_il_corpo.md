@@ -19,4 +19,8 @@ Ti invito a non fidarti ma ad essere anche tu stesso uno sperimentatore, quando 
 
 Poche cose sono per tutti. Ognuno ha una sua vita una sua storia una sua esperienza personale.
 
+Un altro motivo importante per cui ho inserito questo capitolo è perchè è fondamentale che professionisti che collaborano per seguire un paziente utilizzino condividano e migliorino le loro conoscenze, che devono essere misurabili, portare a dei risultati, e in altre parole funzionare. 
 
+Non devono essere concetti astratti che restano sui libri ma delle vere e proprie leggi che si possono applicare.
+
+Appunto per questo ho chiamato questa sezione fisiologia applicata.
