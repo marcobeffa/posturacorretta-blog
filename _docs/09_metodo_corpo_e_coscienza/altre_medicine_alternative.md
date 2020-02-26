@@ -1,7 +1,7 @@
 ---
-title: Le tecniche corporee
+title: Altre medicine alternative
 category: Metodo Corpo e Coscienza
-order: 7
+order: 8
 status: pubblicato
 ---
 

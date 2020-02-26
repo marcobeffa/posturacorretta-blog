@@ -1,7 +1,7 @@
 ---
 title: La Medicina Tradizionale Cinese
 category: Metodo Corpo e Coscienza
-order: 8
+order: 7
 status: pubblicato
 ---
 
