@@ -44,13 +44,10 @@
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
 				
 				<ul>
-					<li class="nav-item top-level {% if page.url == '/pagine/domande_frequenti/' %}current{% endif %}">
-						{% assign domande_frequenti = site.html_pages | where: 'url', '/pagine/domande_frequenti/' | first %}
-						<a href="{{ site.baseurl }}/pagine/domande_frequenti/">{{ domande_frequenti.title }}</a>
-					</li>
+
 					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
 						{% assign home = site.html_pages | where: 'url', '/' | first %}
-						<a href="{{ site.baseurl }}/">Benvenuto</a>
+						<a href="{{ site.baseurl }}/">Home</a>
 					</li>
 				</ul>
 
@@ -66,7 +63,9 @@
 							<ul>
 								{% for item in items %}
 									{% if item.status == "pubblicato" %}
-										<li class="nav-item {% if item.url == page.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+										{% if group.name == page.category %}
+											<li class="nav-item {% if item.url == page.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+										{% endif %}
 									{% endif %}
 								{% endfor %}
 							</ul>
@@ -75,6 +74,10 @@
 				</ul>
 
 				<ul>
+					<li class="nav-item top-level {% if page.url == '/pagine/domande_frequenti/' %}current{% endif %}">
+						{% assign domande_frequenti = site.html_pages | where: 'url', '/pagine/domande_frequenti/' | first %}
+						<a href="{{ site.baseurl }}/pagine/domande_frequenti/">{{ domande_frequenti.title }}</a>
+					</li>
 					<li class="nav-item top-level {% if page.url == '/pagine/contatti/' %}current{% endif %}">
 						{% assign contatti = site.html_pages | where: 'url', '/pagine/contatti/' | first %}
 						<a href="{{ site.baseurl }}/pagine/contatti/">{{ contatti.title }}</a>

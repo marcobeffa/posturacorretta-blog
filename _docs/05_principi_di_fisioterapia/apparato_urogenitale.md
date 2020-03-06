@@ -1,6 +1,6 @@
 ---
 title: Apparato urogenitale
-category: Fisioterapia
+category: Principi di fisioterapia
 order: 8
 status: pubblicato
 ---

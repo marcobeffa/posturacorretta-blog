@@ -1,6 +1,6 @@
 ---
 title: Apparato cardio-vascolare
-category: Fisioterapia
+category: Principi di fisioterapia
 order: 9
 status: pubblicato
 ---

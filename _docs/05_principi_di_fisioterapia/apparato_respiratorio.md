@@ -1,6 +1,6 @@
 ---
 title: Apparato respiratorio
-category: Fisioterapia
+category: Principi di fisioterapia
 order: 6
 status: pubblicato
 ---

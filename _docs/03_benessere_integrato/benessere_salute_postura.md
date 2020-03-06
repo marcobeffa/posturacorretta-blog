@@ -19,7 +19,7 @@ Prima di iniziare a lavorare direttamente sulla postura vedremo di imparare a co
 
 Lavorare sulla postura senza prima conoscere le basi della salute è possibile, ma affiancando i due lavori postura + salute si ha un effetto sinergico.
 
-Per questo con benessere integrato ti proporrò un breve lavoro per lavorare sui fondamentali della salute potrai poi iniziare il vero e proprio lavoro sulla postura.
+Per questo con benessere integrato i professionisti del campo ti daranno alcuniu consigli per lavorare sui fondamentali della salute e del benessere potrai così preparare il terreno per iniziare il vero e proprio percorso sulla postura.
 
 
 

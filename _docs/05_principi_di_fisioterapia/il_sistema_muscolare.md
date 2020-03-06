@@ -1,6 +1,6 @@
 ---
 title: Il sistema muscolare
-category: Fisioterapia
+category: Principi di fisioterapia
 order: 3
 status: pubblicato
 ---

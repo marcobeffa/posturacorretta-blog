@@ -1,6 +1,6 @@
 ---
 title: Apparato digerente
-category: Fisioterapia
+category: Principi di fisioterapia
 order: 4
 status: pubblicato
 ---

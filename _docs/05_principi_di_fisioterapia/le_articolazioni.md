@@ -1,6 +1,6 @@
 ---
 title: Le articolazioni
-category: Fisioterapia
+category: Principi di fisioterapia
 order: 2
 status: pubblicato
 ---

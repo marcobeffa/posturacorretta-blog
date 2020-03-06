@@ -1,10 +1,12 @@
 ---
 title: Cos'è la fisioterapia
-category: Fisioterapia
+category: Principi di fisioterapia
 order: 1
 status: pubblicato
 ---
-La fisioterapia è una branca della medicina, anche se non prevede l’impiego di farmaci. Un fisioterapia lavora però in collaborazione con un medico Fisiatra o con un Ortopedico per capire quale sia il percorso migliore per te che permetta di recuperare, o acquisire, funzionalità motorie che hai perso per qualsiasi ragione.
+La fisioterapia è una branca della medicina, è una branca della medicina tesa a restituire piena funzionalità a parti del corpo lese o malate, che intaccano l’apparato locomotore, il sistema nervoso, il sistema cardiocircolatorio, respiratorio, urogenitale. 
+
+Il fisioterapia può lavorare in collaborazione con un medico Fisiatra, con un Ortopedico, o un medico di altra specialità, per costruire il percorso che ti permetta di recuperare, o acquisire, funzionalità  motorie o fisiologiche che hai perso per qualsiasi ragione.
 
 La fisioterapia è composta dall’insieme di terapie fisiche, tecniche manuali, protocolli riabilitativi atti a recuperare la funzione ed il benessere fisico del paziente.
 

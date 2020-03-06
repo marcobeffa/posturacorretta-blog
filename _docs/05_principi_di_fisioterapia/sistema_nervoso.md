@@ -1,6 +1,6 @@
 ---
 title: Sistema Nervoso
-category: Fisioterapia
+category: Principi di fisioterapia
 order: 7
 status: pubblicato
 ---
