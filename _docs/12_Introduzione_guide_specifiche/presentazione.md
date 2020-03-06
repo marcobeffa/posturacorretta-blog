@@ -1,6 +1,6 @@
 ---
 title: Presentazione 
-category: Introduzione Guide specifiche
+category: Introduzione Guide Specifiche
 order: 1
 status: pubblicato
 
