@@ -79,14 +79,18 @@
 <div class="books">
 {% assign grouped = site.docs | group_by: 'category' %}
 {% for group in grouped %}
+ {% if group.name != "Igiene Posturale" %}
  <div id="book1" class="book">
     {% assign items = group.items | sort: 'order' %}
+   
     <a href="{{ site.baseurl }}{{ items.first.url }}"> 
      
      <img src="images/copertine/{{ group.name }}.png" alt="{{ group.name }}" width="240">
 
     </a>  
+   
 </div>
+ {% endif %}
 {% endfor %}
 
    <br>
