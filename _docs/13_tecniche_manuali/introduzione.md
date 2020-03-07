@@ -1,6 +1,6 @@
 ---
-title: Conclusione
-category: Chiusura guide generali
+title: Introduzione
+category: Tecniche Manuali
 order: 1
 status: pubblicato
 ---
