@@ -1,6 +1,6 @@
 ---
 title: Introduzione
-category: Principi di Kinesiologia
+category: Principi di kinesiologia
 order: 1
 status: pubblicato
 ---
